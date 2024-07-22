@@ -33,4 +33,5 @@
 	C. This program is not to be sold. If you paid money for this program, you have been scammed!
 	Have fun and good grades!
 
+Example picture (these grades are not mine and were chosen for demonstration purposes only):
 ![image](https://github.com/user-attachments/assets/de1ed955-15cd-450e-a26f-6f36b76253ef)
