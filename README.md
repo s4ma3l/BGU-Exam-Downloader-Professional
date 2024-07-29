@@ -35,6 +35,6 @@
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-Example picture (these grades are not mine and were chosen for demonstration purposes only):
-
+Example pictures (these grades and courses are not mine and were chosen for demonstration purposes only):
+![image](https://github.com/user-attachments/assets/6151f4b9-327f-4de2-9b01-3fa6b9ef999f)
 ![image](https://github.com/user-attachments/assets/de1ed955-15cd-450e-a26f-6f36b76253ef)
